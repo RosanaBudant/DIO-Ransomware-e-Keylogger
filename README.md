@@ -6,9 +6,10 @@ As implementações foram feitas com Python, de forma segura, controlada e não 
 
 ⚠️ Aviso Legal e Ético
 
-Este projeto foi desenvolvido exclusivamente para estudo, seguindo diretrizes de segurança e ética.
+⚖️ Isenção de Responsabilidade
+Este projeto é ESTRITAMENTE EDUCACIONAL. Os autores não se responsabilizam por uso indevido. O conhecimento aqui compartilhado visa FORTALECER medidas de segurança, nunca enfraquecê-las.
 
-🛡️ 3. Medidas de Defesa e Prevenção
+🛡️ Medidas de Defesa e Prevenção
 
 Após realizar as simulações, foi feita uma reflexão sobre como mitigar essas ameaças no mundo real.
 
